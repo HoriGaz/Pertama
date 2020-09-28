@@ -1,1 +1,72 @@
 # Pertama
+This is a bot , sure this is a bot !
+
+Getting Started
+This project require MQTT broker, nodeJS.
+
+Install
+make sure u have installed ubuntu 18.04 in your termux , if you aren't install it go install an Apps called Andronix on google play until you have ubuntu like this
+
+then .. Clone this project
+
+> git clone https://github.com/fdciabdul/termux-whatsapp-bot
+> cd termux-whatsapp-bot
+Install the dependencies:
+
+> npm i
+Usage
+run the Whatsapp bot
+> node index.js
+after running it you need to scan the qr
+
+Bot Whatsapp Command
+  
+◦•●◉✿ ஜ۩۞۩ஜ 𝐈𝐧𝐬𝐢𝐝𝐞 𝐁𝐨𝐭 ஜ۩۞۩ஜ  ✿◉●•◦
+
+  
+
+
+👾 List Menu Bot :
+
+ ◦🌉 _ɦσɾσรcσρε ~_ 
+
+🌠 !nama <nama>
+ _cari arti dari namamu_ 
+
+ contoh _!nama Maudy Ayunda_ 
+ 
+ 🌠 !quotes
+ _random quotes dari tokoh terkenal_
+
+🌠 !sifat [nama] tt-mm-yy
+ _cari sifat berdasarkan nama dan tanggal lahir_ 
+
+ contoh _!sifat [Maudy Ayunda] 31-08-199_ 
+
+🌠 !sial* tt mm yy
+ _cek hari apes mu_
+
+ contoh _!sial 17 08 1945_ 
+
+🌠 !pasangan namamu & pasanganmu
+ _Cek kecocokan jodoh_ 
+
+ contoh _!pasangan Riska & Ali_ 
+
+🗃 _ժօաղlօαժҽɾ ~_
+
+🔖 *!fb* <url>
+ *downloader facebook_* 
+ 
+🔖 *!ig* <url>
+ *downloader instagram* 
+
+🔖 *!ytmp3* <url>
+ *konversi youtube ke mp3_* 
+
+
+      🅜🅞🅡🅔    
+   🅕🅔🅐🅣🅤🅡🅔🅢 🅘🅢 
+🅒🅞🅞🅜🅘🅝🅖 🅢🅞🅞🅝
+
+ _Powered By_ : 💞 *InsideHeartz*
