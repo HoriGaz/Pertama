@@ -1,4 +1,6 @@
-# Pertama
+Whatsapp Bot With Some Unique Features but it can running with termux tho 😊
+Twitter Commit Fork
+
 This is a bot , sure this is a bot !
 
 Getting Started
